@@ -1,0 +1,15 @@
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\bin\Debug\net6.0\Example009_Intro_array.exe
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\bin\Debug\net6.0\Example009_Intro_array.deps.json
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\bin\Debug\net6.0\Example009_Intro_array.runtimeconfig.json
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\bin\Debug\net6.0\Example009_Intro_array.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\bin\Debug\net6.0\Example009_Intro_array.pdb
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.csproj.AssemblyReference.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.AssemblyInfoInputs.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.AssemblyInfo.cs
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.csproj.CoreCompileInputs.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\refint\Example009_Intro_array.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.pdb
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\Example009_Intro_array.genruntimeconfig.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example009_Intro_array\obj\Debug\net6.0\ref\Example009_Intro_array.dll

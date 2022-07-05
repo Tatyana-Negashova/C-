@@ -1,0 +1,15 @@
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\bin\Debug\net6.0\Example008_intro.exe
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\bin\Debug\net6.0\Example008_intro.deps.json
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\bin\Debug\net6.0\Example008_intro.runtimeconfig.json
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\bin\Debug\net6.0\Example008_intro.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\bin\Debug\net6.0\Example008_intro.pdb
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.csproj.AssemblyReference.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.AssemblyInfoInputs.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.AssemblyInfo.cs
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.csproj.CoreCompileInputs.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\refint\Example008_intro.dll
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.pdb
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\Example008_intro.genruntimeconfig.cache
+C:\Users\Hi Anna\Desktop\GeekBrains\C#\Example008_intro\obj\Debug\net6.0\ref\Example008_intro.dll
