@@ -20,7 +20,8 @@ void PrintArray(int[] col) //метод,который будет печатат
     }
 }
 
-int IndexOf(int[] collection, int find) //аргумент-массив collection + элемент find
+int IndexOf(int[] collection, int find) // поиск индекса заданного эелемента,
+//аргумент-массив collection + элемент find
 {
 
     int count = collection.Length; //определяем количество элементов

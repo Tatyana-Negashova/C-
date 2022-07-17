@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hi Anna\\Desktop\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj": {}
+    "C:\\Users\\Hi Anna\\Desktop\\GeekBrains\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hi Anna\\Desktop\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj": {
+    "C:\\Users\\Hi Anna\\Desktop\\GeekBrains\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hi Anna\\Desktop\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj",
+        "projectUniqueName": "C:\\Users\\Hi Anna\\Desktop\\GeekBrains\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj",
         "projectName": "Zadacha3",
-        "projectPath": "C:\\Users\\Hi Anna\\Desktop\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj",
+        "projectPath": "C:\\Users\\Hi Anna\\Desktop\\GeekBrains\\C#\\Семинар2\\Zadacha3\\Zadacha3.csproj",
         "packagesPath": "C:\\Users\\Hi Anna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hi Anna\\Desktop\\C#\\Семинар2\\Zadacha3\\obj\\",
+        "outputPath": "C:\\Users\\Hi Anna\\Desktop\\GeekBrains\\C#\\Семинар2\\Zadacha3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hi Anna\\AppData\\Roaming\\NuGet\\NuGet.Config"
